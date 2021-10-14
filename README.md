@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
 ## Table of Contents
-1. [Installation] (#installation)
+1. [Installation](#installation)
 
 
 
