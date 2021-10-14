@@ -2,14 +2,21 @@
 
 ## Table of Contents
 1. [Installation](#installation)
-
-
+2. [Project Motivation](#motivation)
+3. [Project Description](#description)
+4. [Data Preview](#data)
+5. [Instructions](#instructions)
 
 
 ## Installation <a name='installation'></a>
 
+## Project Motivation<a name = 'motivation'></a>
 
-### Instructions:
+## Project Description<a name='description'></a>
+
+## Data Preview<a name='data'></a>
+
+## Instructions<a name='instructions'></a>:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
