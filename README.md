@@ -25,8 +25,6 @@ After cleaned all the messages, we identified 36 categories, and the count of di
 
 ![image](https://user-images.githubusercontent.com/26633604/141355598-ca33aca8-2f61-4b44-a7fb-97f79cb68b3a.png)
 
-
-
 ## Instructions<a name='instructions'></a>:
 1. Run the following commands in the project's root directory to set up your database and model.
 
