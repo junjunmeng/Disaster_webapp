@@ -23,7 +23,8 @@ The message data recorded 26207 messages, which is grouped in three genre: direc
 
 After cleaned all the messages, we identified 36 categories, and the count of different categories is shown in the picture. "related", "aid related" and 'weather realted" are the three biggest groups, which accounts for 46% of all categories. 
 
-![image](https://user-images.githubusercontent.com/26633604/141355598-ca33aca8-2f61-4b44-a7fb-97f79cb68b3a.png)
+![image](https://user-images.githubusercontent.com/26633604/141358127-80778936-dba2-41c3-8585-64e1ea10c8d6.png)
+
 
 ## Instructions<a name='instructions'></a>:
 1. Run the following commands in the project's root directory to set up your database and model.
