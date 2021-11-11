@@ -18,9 +18,11 @@ This disaster response pipeline used ETL, NLP and Machine learning pipeline to b
 ## Data Preview<a name='data'></a>
 
 The message data recorded 26207 messages, which is grouped in three genre: direct, social and news. The news genre is the biggest group, followed ba direct genre, and the genre of social is the least. 
+
 ![image](https://user-images.githubusercontent.com/26633604/141354670-9bc9bb39-debd-431a-9b91-876be78550cc.png)
 
 After cleaned all the messages, we identified 36 categories, and the count of different categories is shown in the picture. "related", "aid related" and 'weather realted" are the three biggest groups, which accounts for 46% of all categories. 
+
 ![image](https://user-images.githubusercontent.com/26633604/141355598-ca33aca8-2f61-4b44-a7fb-97f79cb68b3a.png)
 
 
